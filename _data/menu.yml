@@ -1,10 +1,10 @@
 entries:
-  - title: Hello 👋 - Superblob is a creative studio that focuses on
+  - title: 👋 Hello - Superblob is a creative studio with a focus on
     entries:
-      - title: Product and Interaction Design
+      - title: Interaction Design
       - title: Computational Art
       - title: Generative Systems
-  - title: Selected Projects
+  - title: 📀 Selected Projects
     entries:
       - title: Pixel Music - iOS music sequencer based on images
         url: projects/pixel-music
@@ -16,46 +16,51 @@ entries:
         url: projects/four-seconds
       - title: Simulated Horizons - generative art & AI project
         url: projects/simulated-horizons
-      - title: paper js and matterjs
       - title: Is it windy? - particle system based on weather data
         url: projects/windy
 
-  - title: Artworks
-    url: projects/artworks
-
-  - title: Exhibitions / Conferences
+  - title: 🖼 Artworks
     entries:
-      - title: Particle Music - Installation @ Web Audio Conference (WAC) 2024, Purdue University
-      - title: Particle Music - Concert @ Web Audio Conference (WAC) 2024, Purdue University
+      - title: Example 1
+        url: projects/artworks
+
+  - title: 🎒 Exhibitions / Conferences
+    entries:
+      - title: Particle Music - Installation @ WAC 2024, Purdue University
+      - title: Particle Music - Concert @ WAC 2024, Purdue University
       - title: The Musical Web, SFPC NYC
         url: https://projects.sfpc.study/musical-web-f23/
       - title: Modulab MNAC
         url: https://github.com/riggraz/no-style-please
 
-  - title: Talks & Workshops
+  - title: 💬 Talks & Workshops
     entries:
-      - title: Integrating p5.JS & RNBO Workshop @ Web Audio Conference (WAC) 2024, Purdue University
+      - title: Integrating p5.JS & RNBO Workshop @ WAC 2024, Purdue University
       - title: UX & Product Design Workshop @ Innovation Labs, UPB Bucharest
       - title: UX & Product Design Workshop @ ???, Amsterdam
       - title: Art & Blockchain panel, Institut Français de Roumanie
         url: https://institutfrancais.ro/bucuresti/evenimente/dezbatere-online-arta-si-blockchain/#/
 
-  - title: Writing
+  - title: 🖋 Writing
     entries:
       - title: Integrating p5 Sound and RNBO
         url: https://superblob.substack.com/p/integrating-p5-sound-and-rnbo
       - title: Four Seconds — the story of how I released my first game
         url: https://medium.com/swlh/four-seconds-the-story-of-how-i-released-my-first-game-c0570ccf0b5e
   
-  - title: Old stuff
+  - title: 📠 Old stuff
     entries:
+      - title: Paper JS & Matter JS example integration
+        url: projects/paper-matter
       - title: Santatizer?
       - title: Modulab projects?
       - title: RGB Webcam gaze tracker
         url: projects/gaze
-  - title: Have a project in mind? Get in touch
-    url: mailto:hello@superblob.studio
-  - title: Let's connect
+  - title: 📞 Have a project in mind?
+    entries:
+      - title: Get in touch
+        url: mailto:hello@superblob.studio
+  - title: 🔗 Let's connect
     entries:
       - title: Twitter/X
         url: https://twitter.com/andreitonescu
