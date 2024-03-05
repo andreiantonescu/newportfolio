@@ -1,15 +1,9 @@
-# For documentation on this file, see:
-# https://github.com/riggraz/no-style-please#customize-the-menu
-
 entries:
-  - title: Hey there 👋 - I'm Andrei
+  - title: Hello 👋 - Superblob is a creative studio that focuses on
     entries:
-      - title: Product and Interaction Designer, Computational Artist
-      - title: RGB Webcam Gaze tracker, ASE Bucharest
-      - title: add BIO/about?
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
-
+      - title: Product and Interaction Design
+      - title: Computational Art
+      - title: Generative Systems
   - title: Selected Projects
     entries:
       - title: Pixel Music - iOS music sequencer based on images
@@ -22,22 +16,12 @@ entries:
         url: projects/four-seconds
       - title: Simulated Horizons - generative art & AI project
         url: projects/simulated-horizons
-      - title: RGB Webcam gaze tracker
-        url: projects/gaze
+      - title: paper js and matterjs
       - title: Is it windy? - particle system based on weather data
         url: projects/windy
-      - title: Santatizer?
-      - title: Modulab projects?
 
   - title: Artworks
-
-  - title: Writing
-    post_list:
-      category: writing
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
+    url: projects/artworks
 
   - title: Exhibitions / Conferences
     entries:
@@ -45,8 +29,6 @@ entries:
       - title: Particle Music - Concert @ Web Audio Conference (WAC) 2024, Purdue University
       - title: The Musical Web, SFPC NYC
         url: https://projects.sfpc.study/musical-web-f23/
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
       - title: Modulab MNAC
         url: https://github.com/riggraz/no-style-please
 
@@ -55,30 +37,35 @@ entries:
       - title: Integrating p5.JS & RNBO Workshop @ Web Audio Conference (WAC) 2024, Purdue University
       - title: UX & Product Design Workshop @ Innovation Labs, UPB Bucharest
       - title: UX & Product Design Workshop @ ???, Amsterdam
-      - title: Art & Blockchain panel, Institut Francais Bucarest
+      - title: Art & Blockchain panel, Institut Français de Roumanie
+        url: https://institutfrancais.ro/bucuresti/evenimente/dezbatere-online-arta-si-blockchain/#/
 
   - title: Writing
     entries:
-      - title: Integrating p5.JS & R
-        url: 
+      - title: Integrating p5 Sound and RNBO
+        url: https://superblob.substack.com/p/integrating-p5-sound-and-rnbo
       - title: Four Seconds — the story of how I released my first game
         url: https://medium.com/swlh/four-seconds-the-story-of-how-i-released-my-first-game-c0570ccf0b5e
   
+  - title: Old stuff
+    entries:
+      - title: Santatizer?
+      - title: Modulab projects?
+      - title: RGB Webcam gaze tracker
+        url: projects/gaze
+  - title: Have a project in mind? Get in touch
+    url: mailto:hello@superblob.studio
   - title: Let's connect
     entries:
       - title: Twitter/X
+        url: https://twitter.com/andreitonescu
       - title: Instagram
-
-  - title: rss
-    url: feed.xml
-  
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: EEEE page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+        url: https://www.instagram.com/superblob/
+      - title: Foundation
+        url: https://foundation.app/@superblob
+      - title: Vimeo
+        url: https://vimeo.com/andreiantonescu
+      - title: Github
+        url: https://github.com/andreiantonescu/
+      - title: Product Hunt
+        url: https://www.producthunt.com/@andreitonescu
