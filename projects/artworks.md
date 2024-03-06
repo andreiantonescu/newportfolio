@@ -56,6 +56,9 @@ These may or may not be available for sale on various platforms. If interested, 
 ![Experiments with pixel sorting](/assets/img/artworks/pixel-sort-2.png)
 <div class="caption">Experiments with pixel sorting</div>
 
+![Experiments with pixel sorting](/assets/img/artworks/pixel-sort-5.png)
+<div class="caption">Experiments with pixel sorting</div>
+
 ![Experiments with 2D noise drawing](/assets/img/artworks/scribble-1.png)
 <div class="caption">Experiments with 2D noise drawing</div>
 
