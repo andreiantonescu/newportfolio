@@ -6,17 +6,17 @@ entries:
       - title: Generative Systems
   - title: 📀 Selected Projects
     entries:
-      - title: Pixel Music - iOS music sequencer based on images
+      - title: DONE ✅ Pixel Music - iOS music sequencer based on images
         url: projects/pixel-music
       - title: The Musical Web @ SFPC - web audio experiments
         url: projects/musical-web
-      - title: Tangled - generative Art project
+      - title: DONE ✅ Tangled - generative Art project
         url: projects/tangled
-      - title: Four Seconds - stopwatch iOS game
+      - title: DONE ✅ Four Seconds - stopwatch iOS game
         url: projects/four-seconds
       - title: Simulated Horizons - generative art & AI project
         url: projects/simulated-horizons
-      - title: Is it windy? - particle system based on weather data
+      - title: DONE ✅ Is it windy? - particle system based on weather data
         url: projects/windy
 
   - title: 🖼 Artworks
@@ -50,12 +50,12 @@ entries:
   
   - title: 📠 Old stuff
     entries:
-      - title: 2016 - Paper JS & Matter JS example integration
+      - title: DONE ✅ 2016 - Paper JS & Matter JS example integration
         url: projects/paper-matter
       - title: 2014 - FIND STUFF Santatizer @ The Selfless Selfish, The ARK
-      - title: 2014 RGB Webcam gaze tracker
+      - title: DONE ✅ 2014 RGB Webcam gaze tracker
         url: projects/gaze
-      - title: 2013 - Face Drawing @ Symbiomorphogenesis, Modulab/MNAC
+      - title: DONE ✅ 2013 - Face Drawing @ Symbiomorphogenesis, Modulab/MNAC
         url: projects/modulab
   - title: 📞 Have a project in mind?
     entries:
