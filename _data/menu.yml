@@ -56,7 +56,8 @@ entries:
     entries:
       - title: 2016 - Paper JS & Matter JS example integration
         url: projects/paper-matter
-      - title: 🚨🚨 2014 - FIND STUFF Santatizer @ The Selfless Selfish, The ARK
+      - title: 2014 - Santatizer @ The Selfless Selfish, The ARK
+        url: projects/santa
       - title: 2014 - RGB Webcam gaze tracker
         url: projects/gaze
       - title: 2013 - Face Drawing @ Symbiomorphogenesis, Modulab/MNAC
