@@ -50,12 +50,13 @@ entries:
   
   - title: 📠 Old stuff
     entries:
-      - title: Paper JS & Matter JS example integration
+      - title: 2016 - Paper JS & Matter JS example integration
         url: projects/paper-matter
-      - title: Santatizer?
-      - title: Modulab projects?
-      - title: RGB Webcam gaze tracker
+      - title: 2014 - FIND STUFF Santatizer @ The Selfless Selfish, The ARK
+      - title: 2014 RGB Webcam gaze tracker
         url: projects/gaze
+      - title: 2013 - Face Drawing @ Symbiomorphogenesis, Modulab/MNAC
+        url: projects/modulab
   - title: 📞 Have a project in mind?
     entries:
       - title: Get in touch
