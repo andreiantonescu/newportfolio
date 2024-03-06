@@ -6,56 +6,60 @@ entries:
       - title: Generative Systems
   - title: 📀 Selected Projects
     entries:
-      - title: DONE ✅ Pixel Music - iOS music sequencer based on images
-        url: projects/pixel-music
-      - title: The Musical Web @ SFPC - web audio experiments
+      - title: 🚨🚨2023 - The Musical Web @ SFPC, web audio experiments
         url: projects/musical-web
-      - title: DONE ✅ Tangled - generative Art project
-        url: projects/tangled
-      - title: DONE ✅ Four Seconds - stopwatch iOS game
-        url: projects/four-seconds
-      - title: Simulated Horizons - generative art & AI project
+      - title: 2023 - Pixel Music, iOS music sequencer based on images
+        url: projects/pixel-music
+      - title: 🚨🚨2023 - Simulated Horizons, generative art & AI project
         url: projects/simulated-horizons
-      - title: DONE ✅ Is it windy? - particle system based on weather data
+      - title: 2021 - Tangled, generative Art project
+        url: projects/tangled
+      - title: 2021 - Is it windy?, particle system based on weather data
         url: projects/windy
+      - title: 2018 - Four Seconds, stopwatch iOS game
+        url: projects/four-seconds
 
-  - title: 🖼 Artworks
+  - title: 🖼 🚨🚨Artworks
     entries:
       - title: Example 1
         url: projects/artworks
 
   - title: 🎒 Exhibitions / Conferences
     entries:
-      - title: Particle Music - Installation @ WAC 2024, Purdue University
-      - title: Particle Music - Concert @ WAC 2024, Purdue University
-      - title: The Musical Web, SFPC NYC
+      - title: 2024 - Particle Music, Installation @ Web Audio Conference, Purdue University
+        url: https://cla.purdue.edu/academic/rueffschool/music/events/conferences-festivals/wac-24/wac-24.html
+      - title: 2024 - Particle Music, Concert @ Web Audio Conference, Purdue University
+        url: https://cla.purdue.edu/academic/rueffschool/music/events/conferences-festivals/wac-24/wac-24.html
+      - title: 2023 - The Musical Web, SFPC NYC
         url: https://projects.sfpc.study/musical-web-f23/
-      - title: Modulab MNAC
-        url: https://github.com/riggraz/no-style-please
+      - title: 2013 - Face Drawing @ Symbiomorphogenesis, Modulab/MNAC
+        url: projects/modulab
 
   - title: 💬 Talks & Workshops
     entries:
-      - title: Integrating p5.JS & RNBO Workshop @ WAC 2024, Purdue University
-      - title: UX & Product Design Workshop @ Innovation Labs, UPB Bucharest
-      - title: UX & Product Design Workshop @ ???, Amsterdam
-      - title: Art & Blockchain panel, Institut Français de Roumanie
+      - title: 2024 - Integrating p5.JS & RNBO Workshop @ Web Audio Conference, Purdue University
+        url: https://cla.purdue.edu/academic/rueffschool/music/events/conferences-festivals/wac-24/wac-24.html
+      - title: 2021 - Art & Blockchain panel, Institut Français de Roumanie
         url: https://institutfrancais.ro/bucuresti/evenimente/dezbatere-online-arta-si-blockchain/#/
+      - title: 2018 - From Idea to Market, a Lean Product Crash Course @ Let's Startup 2018 B Amsterdam, Amsterdam
+      - title: 2017 - UX & Product Design Workshop @ B Amsterdam, Amsterdam
+      - title: 2017 & 2016 - UX & Product Design Workshop @ Innovation Labs, UPB Bucharest
 
   - title: 🖋 Writing
     entries:
-      - title: Integrating p5 Sound and RNBO
+      - title: 2023 - Integrating p5 Sound and RNBO
         url: https://superblob.substack.com/p/integrating-p5-sound-and-rnbo
-      - title: Four Seconds — the story of how I released my first game
+      - title: 2018 - Four Seconds — the story of how I released my first game
         url: https://medium.com/swlh/four-seconds-the-story-of-how-i-released-my-first-game-c0570ccf0b5e
   
   - title: 📠 Old stuff
     entries:
-      - title: DONE ✅ 2016 - Paper JS & Matter JS example integration
+      - title: 2016 - Paper JS & Matter JS example integration
         url: projects/paper-matter
-      - title: 2014 - FIND STUFF Santatizer @ The Selfless Selfish, The ARK
-      - title: DONE ✅ 2014 RGB Webcam gaze tracker
+      - title: 🚨🚨 2014 - FIND STUFF Santatizer @ The Selfless Selfish, The ARK
+      - title: 2014 - RGB Webcam gaze tracker
         url: projects/gaze
-      - title: DONE ✅ 2013 - Face Drawing @ Symbiomorphogenesis, Modulab/MNAC
+      - title: 2013 - Face Drawing @ Symbiomorphogenesis, Modulab/MNAC
         url: projects/modulab
   - title: 📞 Have a project in mind?
     entries:
