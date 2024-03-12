@@ -6,7 +6,7 @@ entries:
       - title: Generative Systems
   - title: 📀 Selected Projects
     entries:
-      - title: 🚨🚨2023 - The Musical Web @ SFPC, web audio experiments
+      - title: 2023 - The Musical Web @ SFPC, web audio experiments
         url: projects/musical-web
       - title: 2023 - Pixel Music, iOS music sequencer based on images
         url: projects/pixel-music
