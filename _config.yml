@@ -1,10 +1,10 @@
-title: Superblob Studio # name of the site
+title: Superblob # name of the site
 author: Andrei Antonescu # name of site's author
 email: hello@superblob.studio # email of site's author
 url: https://superblob.studio # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  Superblob Studio
+  Superblob
 
 permalink: /:slug.html
 
