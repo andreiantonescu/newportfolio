@@ -7,7 +7,7 @@ title: Web Audio Conference @ Purdue University
 
 ## Overview
 
-In 2024 I attended the [Web Audio Conference @ Purdue University](https://cla.purdue.edu/academic/rueffschool/music/events/conferences-festivals/wac-24/program.html). My main contribution was doing a [workshop](#rnbo-and-p5js-workshop) about [RNBO](https://rnbo.cycling74.com/) and how to integrate it with both vanilla web audio as well as other frameworks. [Particle Music](/projects/musical-web/#particle-music) was also presented as a concert screening and installation.
+In 2024 I attended the [Web Audio Conference @ Purdue University](https://cla.purdue.edu/academic/rueffschool/music/events/conferences-festivals/wac-24/program.html). My main contribution was doing a [workshop](#rnbo-and-p5js-workshop) about [RNBO](https://rnbo.cycling74.com/) and how to integrate it with both vanilla web audio as well as other frameworks. [Particle Music](/projects/musical-web#particle-music) was also presented as a concert screening and installation.
 
 There were several other interesting ideas and experiments explored around networked performance and body gesture tracking.
 
@@ -19,7 +19,7 @@ There were several other interesting ideas and experiments explored around netwo
 
 ## Particle Music, concert and installation
 
-The [generative piece](/projects/musical-web/#particle-music) was screened live at the Hansen Theatre @ Purdue University on March 17th. The installation ran throughout the conference in a dark acting classroom, part of the Yue-Kong Pao Hall of Visual and Performing Arts.
+The [generative piece](/projects/musical-web#particle-music) was screened live at the Hansen Theatre @ Purdue University on March 17th. The installation ran throughout the conference in a dark acting classroom, part of the Yue-Kong Pao Hall of Visual and Performing Arts.
 
 ![Particle Music Installation](/assets/img/wac24-installation.png)
 <div class="caption">Particle Music Installation</div>
@@ -29,7 +29,7 @@ The [generative piece](/projects/musical-web/#particle-music) was screened live 
 
 
 ## RNBO and p5.js Workshop
-I held a workshop around RNBO and Max where I used p5.js for the graphical part. Since there was a mixed group, we started with the basics of each framework and gradually stepped towards the final project: a [Mouse Theremin](https://theremin.superblob.studio/).
+I held a workshop around RNBO and Max where I used p5.js for the graphical part. Since there was a mixed group, we started with the basics of each framework and gradually stepped towards the final project: a [Mouse Theremin](https://theremin.superblob.studio/) - to interact with the piece, start the sketch and move the mouse on the screen.
 
 A large focus of the session was using multiple RNBO devices, especially existing plugins, which seemed to be valuable to people that were less familiar with Max. The final project featured a reverberation effect based on the [RNBO Guitar Pedals plugins](https://rnbo.cycling74.com/explore/rnbo-pedals).
 
