@@ -6,6 +6,8 @@ entries:
       - title: Generative Systems
   - title: 📀 Selected Projects
     entries:
+      - title: 2024 - Web Audio Conference @ Purdue University
+        url: projects/wac24
       - title: 2023 - The Musical Web @ SFPC, web audio experiments
         url: projects/musical-web
       - title: 2023 - Pixel Music, iOS music sequencer based on images
@@ -27,9 +29,9 @@ entries:
   - title: 🎒 Exhibitions / Conferences
     entries:
       - title: 2024 - Particle Music, Installation @ Web Audio Conference, Purdue University
-        url: https://cla.purdue.edu/academic/rueffschool/music/events/conferences-festivals/wac-24/wac-24.html
+        url: projects/wac24
       - title: 2024 - Particle Music, Concert @ Web Audio Conference, Purdue University
-        url: https://cla.purdue.edu/academic/rueffschool/music/events/conferences-festivals/wac-24/wac-24.html
+        url: projects/wac24
       - title: 2023 - The Musical Web, SFPC NYC
         url: https://projects.sfpc.study/musical-web-f23/
       - title: 2013 - Face Drawing @ Symbiomorphogenesis, Modulab/MNAC
@@ -38,7 +40,7 @@ entries:
   - title: 💬 Talks & Workshops
     entries:
       - title: 2024 - Integrating p5.js & RNBO Workshop @ Web Audio Conference, Purdue University
-        url: https://cla.purdue.edu/academic/rueffschool/music/events/conferences-festivals/wac-24/wac-24.html
+        url: projects/wac24
       - title: 2021 - Art & Blockchain panel, Institut Français de Roumanie
         url: https://institutfrancais.ro/bucuresti/evenimente/dezbatere-online-arta-si-blockchain/#/
       - title: 2018 - From Idea to Market, a Lean Product Crash Course @ Let's Startup 2018 B Amsterdam, Amsterdam

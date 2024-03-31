@@ -31,6 +31,8 @@ Tools used:
 - ThreeJS
 - GLSL
 
+Particle Music was screened as an installation and concert at Purdue University as part of the [Web Audio Conference 2024](/projects/wac24/#particle-music-concert-and-installation).
+
 
 ## The Source Player
 [https://source.superblob.studio/](https://source.superblob.studio/)
