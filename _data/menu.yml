@@ -21,6 +21,11 @@ entries:
       - title: 2018 - Four Seconds, stopwatch iOS game
         url: projects/four-seconds
 
+  - title: 🎵 Music
+    entries:
+      - title: 2026 - Hanns Pretzel - Untitled Tapes LP
+        url: projects/untitled-tapes
+
   - title: 🖼 Artworks
     entries:
       - title: Examples from various projects
