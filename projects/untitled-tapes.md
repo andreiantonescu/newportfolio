@@ -4,7 +4,7 @@ category: project
 title: Hanns Pretzel - Untitled Tapes LP
 description: Seven tapes, from techno to muffled house and dubious electronica. Music and artwork by Andrei Antonescu.
 image: /assets/img/untitled-tapes/ut-1.png
-stylesheet_version: untitled-tapes-2026
+stylesheet_version: untitled-tapes-2026-v2
 ---
 
 May 12, 2026 · 7 tracks · 33:42
@@ -21,31 +21,31 @@ The images for each track are generated with code, based on my reflections sketc
 
 <div class="track-artworks">
   <figure>
-    <a href="/assets/img/untitled-tapes/ut-1.png"><img src="/assets/img/untitled-tapes/ut-1.png" alt="Interesting Proposition artwork: diagonal black and white reflections" width="1498" height="1432" loading="lazy"></a>
+    <img src="/assets/img/untitled-tapes/ut-1.png" alt="Interesting Proposition artwork: diagonal black and white reflections" width="1498" height="1432" loading="lazy">
     <figcaption>01 - Interesting Proposition</figcaption>
   </figure>
   <figure>
-    <a href="/assets/img/untitled-tapes/ut-2.png"><img src="/assets/img/untitled-tapes/ut-2.png" alt="End of the year artwork: a blurred grid of black and white reflections" width="1512" height="1508" loading="lazy"></a>
+    <img src="/assets/img/untitled-tapes/ut-2.png" alt="End of the year artwork: a blurred grid of black and white reflections" width="1512" height="1508" loading="lazy">
     <figcaption>02 - End of the year</figcaption>
   </figure>
   <figure>
-    <a href="/assets/img/untitled-tapes/ut-3.png"><img src="/assets/img/untitled-tapes/ut-3.png" alt="Outside artwork: intersecting bands of black and white light" width="1512" height="1508" loading="lazy"></a>
+    <img src="/assets/img/untitled-tapes/ut-3.png" alt="Outside artwork: intersecting bands of black and white light" width="1512" height="1508" loading="lazy">
     <figcaption>03 - Outside</figcaption>
   </figure>
   <figure>
-    <a href="/assets/img/untitled-tapes/ut-4.png"><img src="/assets/img/untitled-tapes/ut-4.png" alt="Catch the bus artwork: sweeping horizontal reflections" width="1512" height="1508" loading="lazy"></a>
+    <img src="/assets/img/untitled-tapes/ut-4.png" alt="Catch the bus artwork: sweeping horizontal reflections" width="1512" height="1508" loading="lazy">
     <figcaption>04 - Catch the bus</figcaption>
   </figure>
   <figure>
-    <a href="/assets/img/untitled-tapes/ut-5.png"><img src="/assets/img/untitled-tapes/ut-5.png" alt="Oh artwork: vertical streaks of white light on black" width="1488" height="1427" loading="lazy"></a>
+    <img src="/assets/img/untitled-tapes/ut-5.png" alt="Oh artwork: vertical streaks of white light on black" width="1488" height="1427" loading="lazy">
     <figcaption>05 - Oh</figcaption>
   </figure>
   <figure>
-    <a href="/assets/img/untitled-tapes/ut-6.png"><img src="/assets/img/untitled-tapes/ut-6.png" alt="Always the same artwork: diagonal layers of reflected light" width="1510" height="1434" loading="lazy"></a>
+    <img src="/assets/img/untitled-tapes/ut-6.png" alt="Always the same artwork: diagonal layers of reflected light" width="1510" height="1434" loading="lazy">
     <figcaption>06 - Always the same</figcaption>
   </figure>
   <figure>
-    <a href="/assets/img/untitled-tapes/ut-7.png"><img src="/assets/img/untitled-tapes/ut-7.png" alt="Outro artwork: fine horizontal black and white reflections" width="1506" height="1431" loading="lazy"></a>
+    <img src="/assets/img/untitled-tapes/ut-7.png" alt="Outro artwork: fine horizontal black and white reflections" width="1506" height="1431" loading="lazy">
     <figcaption>07 - Outro</figcaption>
   </figure>
 </div>
