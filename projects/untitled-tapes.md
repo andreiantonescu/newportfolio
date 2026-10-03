@@ -4,6 +4,7 @@ category: project
 title: Hanns Pretzel - Untitled Tapes LP
 description: Seven tapes, from techno to muffled house and dubious electronica. Music and artwork by Andrei Antonescu.
 image: /assets/img/untitled-tapes/ut-1.png
+stylesheet_version: untitled-tapes-2026
 ---
 
 May 12, 2026 · 7 tracks · 33:42
